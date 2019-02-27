@@ -23,5 +23,5 @@ google_analytics:
   - 'auto'
 extra_css:
     - css/extra.css
-pages:
+nav:
   - "Life is short, you need Python.": "index.html"
