@@ -4,7 +4,8 @@ site_description: 'A curated list of awesome Python frameworks, libraries and so
 site_author: 'Vinta Chen'
 repo_name: 'vinta/awesome-python'
 repo_url: 'https://github.com/vinta/awesome-python'
-theme: 'material'
+theme:
+  name: 'material'
   palette:
     primary: 'red'
     accent: 'pink'
