@@ -5,12 +5,10 @@ site_author: 'Vinta Chen'
 repo_name: 'vinta/awesome-python'
 repo_url: 'https://github.com/vinta/awesome-python'
 theme: 'material'
-extra:
-  feature:
-    tabs: false
   palette:
     primary: 'red'
     accent: 'pink'
+extra:
   social:
     - type: 'github'
       link: 'https://github.com/vinta'
@@ -24,4 +22,4 @@ google_analytics:
 extra_css:
     - css/extra.css
 nav:
-  - "Life is short, you need Python.": "index.html"
+  - "Life is short, you need Python.": "index.md"
