@@ -24,4 +24,4 @@ google_analytics:
 extra_css:
     - css/extra.css
 pages:
-  - "Life is short, you need Python.": "index.md"
+  - "Life is short, you need Python.": "index.html"
