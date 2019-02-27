@@ -9,8 +9,6 @@ before_script:
 script:
   - cp README.md docs/index.md
   - mkdocs build
-  - ls
-  - ls site -la
   
 deploy:
   provider: pages
@@ -19,4 +17,4 @@ deploy:
   github-token: $GITHUB_TOKEN
   keep-history: true
   on:
-    branch: travy
+    branch: master
